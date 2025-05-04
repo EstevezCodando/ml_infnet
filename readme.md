@@ -51,4 +51,3 @@ Compara distribuições resultantes com histogramas, boxplots e estatísticas de
 ### 12 - Min-Max em Variável Isolada
 
 Analisa o impacto visual e estatístico da normalização em uma única feature com heatmaps e pairplots.
-
